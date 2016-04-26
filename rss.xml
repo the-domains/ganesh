@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ganesh]]></title>
+        <description><![CDATA[ganesh]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 01:06:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What a day !]]></title>
+            <description><![CDATA[<article><h1>What a day !</h1><p>by Ganesh </p></article>]]></description>
+            <link>undefinedwhat-a-day/index.html</link>
+            <guid isPermaLink="false">8af0191f-d43f-4372-a27f-71b0fbe12b79</guid>
+            <pubDate>Tue, 26 Apr 2016 01:05:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
