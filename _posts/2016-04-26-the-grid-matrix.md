@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T02:16:58.866Z'
-dateModified: '2016-04-26T02:16:48.104Z'
+datePublished: '2016-04-28T17:20:22.852Z'
+dateModified: '2016-04-28T17:20:12.219Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-the-grid-matrix.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-26-the-grid-matrix.md
-published: true
+starred: true
 url: the-grid-matrix/index.html
 _type: Blurb
 
