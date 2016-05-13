@@ -6,10 +6,11 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Occupy yourself before something else occupies you completely.
-datePublished: '2016-05-13T01:25:40.062Z'
-dateModified: '2016-05-13T01:24:36.156Z'
+datePublished: '2016-05-13T01:27:16.634Z'
+dateModified: '2016-05-13T01:26:51.786Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-13-occupy-yourself-before-something-else-occupies-you-completel.md
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-13-occupy-yourself-before-something-else-occupies-you-completel.md
 _type: Blurb
 
 ---
