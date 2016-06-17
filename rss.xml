@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ganesh Hingnekar : Architect ]]></title>
         <description><![CDATA[Ganesh Hingnekar : Architect ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ganesh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 08:47:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 17 Jun 2016 08:49:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ganesh/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is my website....</p>]]></description>
+            <link>https://thegrid.ai/ganesh/this-is-my-website/index.html</link>
+            <guid isPermaLink="false">8f796555-7a90-4129-beaa-c38310c4c9e2</guid>
+            <pubDate>Fri, 17 Jun 2016 08:48:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Code Bases]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d902e9aa-36f4-4b6c-a180-8ab86ddcb221.png">]]></description>
-            <link>undefinedcode-bases/index.html</link>
+            <link>https://thegrid.ai/ganesh/code-bases/index.html</link>
             <guid isPermaLink="false">4e0b32fd-5e4a-4c01-b9da-35ff2a07b2d9</guid>
             <pubDate>Fri, 17 Jun 2016 08:47:30 GMT</pubDate>
         </item>
