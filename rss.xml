@@ -4,7 +4,7 @@
         <description><![CDATA[Ganesh Hingnekar : Architect ]]></description>
         <link>https://thegrid.ai/ganesh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 23:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 23:26:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ganesh/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ideas ]]></title>
@@ -19,13 +19,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/920697a4-6b27-4427-87d4-6137c39798e0.jpg</link>
             <guid isPermaLink="false">6119d92f-02f5-47dd-9c0d-17784327f609</guid>
             <pubDate>Mon, 20 Jun 2016 18:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is my website....</p>]]></description>
-            <link>https://thegrid.ai/ganesh/this-is-my-website/index.html</link>
-            <guid isPermaLink="false">8f796555-7a90-4129-beaa-c38310c4c9e2</guid>
-            <pubDate>Fri, 17 Jun 2016 08:48:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
